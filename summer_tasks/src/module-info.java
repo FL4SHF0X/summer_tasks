@@ -1,0 +1,2 @@
+module summer_tasks {
+}
