@@ -1,6 +1,6 @@
 package summer_tasks;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class gnome_task {
 	public static void main(String[] args) {
